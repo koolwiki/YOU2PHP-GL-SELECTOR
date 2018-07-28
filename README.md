@@ -1,7 +1,7 @@
 # YOU2PHP-GL-SELECTOR
 增加浏览器选择YOU2PHP的缺省国家和地区
 
-1）下载或者安装YOU2PHP
+1）安装YOU2PHP，链接：https://github.com/You2php/you2php
 
 2）下载本项目的三个文件config.php，header.php，select_default_gl.php
 
