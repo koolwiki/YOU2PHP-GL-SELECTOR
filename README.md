@@ -8,3 +8,5 @@
 3）编辑config.php，根据内容提示填写相应信息然后保存
 
 4）把这三个文件复制/覆盖到YOU2PHP目录
+
+![alt text](https://github.com/hahadaba/YOU2PHP-GL-SELECTOR/raw/master/you2php-gl-selector.jpg)
