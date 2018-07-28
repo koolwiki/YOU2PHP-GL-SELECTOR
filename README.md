@@ -1,5 +1,5 @@
 # YOU2PHP-GL-SELECTOR
-增加浏览器选择YOU2PHP的缺省国家和地区
+让YOU2PHP浏览器可以选择缺省国家和地区
 
 1）安装YOU2PHP，链接：https://github.com/You2php/you2php
 
