@@ -15,8 +15,8 @@ $gls=array(
 "IN"=>"印度");
 //可以增加更多的选项
 
-$gl=$_COOKIE['gl'];
-if(!$gl OR !isset($gls[$gl])){$gl='HK';}
+$gl=(isset($_COOKIE['gl']) && $_COOKIE['gl'])?$_COOKIE['gl']:'HK';
+if(!isset($gls[$gl])){$gl='HK';}
 
 $select[]="<select id='select_gl'>";
 foreach($gls as $k=>$v){
